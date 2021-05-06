@@ -1,0 +1,6 @@
+.loginform {
+  padding: 2.3%;
+  display: flex;
+  flex-direction: column;
+  width: 20rem
+}
